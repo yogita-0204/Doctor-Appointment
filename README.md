@@ -1,4 +1,13 @@
 # Doctor-Appointment
+CBP16
+Optimizing Doctor Availability and Appointment Allocation in Hospitals through Digital Technology and Al Integration.
+
+
+
+
+
+
+
 Heading : Less Waiting,More caring!
 problem
 appointments gets overbooked 
